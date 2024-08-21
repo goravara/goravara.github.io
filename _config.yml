@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+logo: /assets/YaleSOM.png
+title: Rahul Goravara
+plugins:
+  - jekyll-sitemap
