@@ -5,7 +5,7 @@ description: Rahul Goravara, Finance PhD & JD. Yale School of Management & Yale 
 
 Rahul Goravara is a financial economist and technology investor.
 
-He received a JD from Yale Law School and Finance PhD from the Yale School of Management. Since graduating, he has worked with Cornerstone Research's finance practice preparing strategy and expert testimony on behalf of corporations and boards of directors on intellectual property (IP), shareholder activism, and takeover defense matters<span>&#8212;</span>including a number of high profile proxy contests and disputes with leading activist hedge funds.
+He received a JD from Yale Law School and Finance PhD from the Yale School of Management. Since graduating, he has worked with Cornerstone Research's finance practice preparing strategy and expert testimony on behalf of corporations and boards of directors on intellectual property (IP), takeover defense, and shareholder activism matters<span>&#8212;</span>including a number of high profile proxy contests and disputes with leading activist hedge funds.
 
 Prior to Yale, Rahul led technology investments at a global long/short equity hedge fund and was a registered patent agent with the United States Patent and Trademark Office (USPTO). He is a Certified Public Accountant (CPA) and a Chartered Financial Analyst (CFA) charterholder.
 
