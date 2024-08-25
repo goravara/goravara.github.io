@@ -1,7 +1,7 @@
 ---
 description: Rahul Goravara, Finance PhD Candidate. Yale School of Management & Yale Law School.
 ---
-![Rahul Goravara, PhD Candidate, Yale School of Management](./assets/Goravara.jpg)
+![Rahul Goravara, PhD Candidate, Yale School of Management](./assets/Goravara.png)
 
 Rahul is a Finance PhD candidate at the Yale School of Management. He has also received a JD from Yale Law School. His research focuses on empirical questions at the intersection of law and finance. His research on director disclosure was recently awarded the 2020 Charles Brandes Second Place Prize.
 
