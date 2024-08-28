@@ -11,7 +11,7 @@ Prior to Yale, Rahul led technology investments at a global long/short equity he
 
 Rahul received his BS and MPP from the University of Virginia and has been <a href="https://news.virginia.edu/content/budding-polymath-rahul-gorawara-masters-business-engineering-and-public-policy">profiled</a> for his service as the student member on UVa’s governing board. He set the record for the highest course load taken in UVa's history by graduating in three years with highest honors while triple majoring in electrical engineering, computer engineering, and economics.
 
-His research focuses on empirical questions at the intersection of law, technology, and finance. His recent research, along with CV and research agenda, are available on the FAR. Alternatively, he can be reached via email for research related or seed-stage investment inquiries.
+His research focuses on empirical questions at the intersection of law, technology, and finance. He can be reached via email for research related or seed-stage investment inquiries.
 
 <hr style="margin-bottom: 2px;" />
 <font size="-2">&copy; Rahul Goravara - Yale School of Management. Our Mission: Educating Leaders for Business and Society.</font>
