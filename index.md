@@ -14,4 +14,4 @@ Rahul received his BS and MPP from the University of Virginia and has been <a hr
 His research focuses on empirical questions at the intersection of law, technology, and finance. He can be reached via email for research related or seed-stage investment inquiries.
 
 <hr style="margin-bottom: 2px;" />
-<font size="-2">&copy; Rahul Goravara - Yale School of Management. Our Mission: Educating Leaders for Business and Society.</font>
+<font size="-2"><a href="https://scholar.google.com/citations?user=W9C-lccAAAAJ&hl=en&oi=ao">&copy;</a> Rahul Goravara - Yale School of Management. Our Mission: Educating Leaders for Business and Society.</font>
