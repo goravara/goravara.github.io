@@ -12,4 +12,4 @@ Prior to Yale, Dr. Goravara led technology investments at a global long/short eq
 Dr. Goravara received his BS and MPP from the University of Virginia and has been <a href="https://news.virginia.edu/content/budding-polymath-rahul-gorawara-masters-business-engineering-and-public-policy">profiled</a> for his service as the student member on UVa’s governing board. He set the record for the highest course load taken in UVa's history by graduating in three years with highest honors while triple majoring in electrical engineering, computer engineering, and economics.
 
 <hr style="margin-bottom: 2px;" />
-<font size="-2"><a href="https://scholar.google.com/citations?user=W9C-lccAAAAJ&hl=en&oi=ao">&copy;</a> Rahul Goravara - Yale School of Management. Our Mission: Educating Leaders for Business and Society.</font>
+<font size="-3"><a href="https://scholar.google.com/citations?user=W9C-lccAAAAJ&hl=en&oi=ao">&copy;</a> <a href="{{ "/" | absolute_url }}">Rahul Goravara - Yale School of Management. Our Mission: Educating Leaders for Business and</a> <a href="https://elischolar.library.yale.edu/gsas_dissertations/340/)">S</a>ociety.</font>
